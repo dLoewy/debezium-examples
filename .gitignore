@@ -31,3 +31,6 @@ generated-sources/
 
 oracle_instantclient/
 db2data/
+
+tutorial/result_*
+tutorial/loaddb.sql
